@@ -10,12 +10,5 @@ attr_accessor :phone_number
     @phone_number = data[:phone_number]
   end
 
-  # def last_name
-  #   "Washington"
-  # end
-
-  # def phone_number
-  #   "2024556677"
-  # end
 end
 
